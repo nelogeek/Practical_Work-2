@@ -54,7 +54,7 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 
-	const int size = 2; // количество человек
+	const int size = 8; // количество человек
 	ZNAK BOOK[size];
 	for (int i = 0; i < size; i++)  // ввод информации
 	{
