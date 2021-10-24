@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\lokot\Desktop\Структуры\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(32,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Структуры\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(39,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lokot\Desktop\Структуры\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(46,16): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> C:\Users\lokot\Desktop\Структуры\ConsoleApplication1\Debug\ConsoleApplication1.exe
